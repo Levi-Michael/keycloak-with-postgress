@@ -12,7 +12,8 @@ HOW TO RUN
     1. sudo chmod 744 requirements_deploy.sh
     2. docker-compose up
 
-IMAGE
+Images
     
-![](Images/Screenshot 2023-03-25 212240.png)
+![](Images/1.png)
 
+![](Images/2.png)
