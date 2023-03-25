@@ -14,5 +14,5 @@ HOW TO RUN
 
 IMAGE
     
-![](images/Screenshot 2023-03-25 212240.png)
+![](Images/Screenshot 2023-03-25 212240.png)
 
