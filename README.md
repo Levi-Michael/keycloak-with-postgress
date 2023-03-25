@@ -10,7 +10,8 @@ HOW TO RUN
 	
     Clone this Git and run:
     1. sudo chmod 744 requirements_deploy.sh
-    2. docker-compose up
+    2. sudo sh requirements_deploy.sh
+    3. docker-compose up
 
 Images
     
